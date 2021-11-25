@@ -21,6 +21,78 @@
                                   "avg_price": 7.83,
                                   "measure": "szt",
                                   "date": "2021-11-24"
+                              },
+                              {
+                                  "pk": 85541,
+                                  "min_price": 7.83,
+                                  "max_price": 7.83,
+                                  "avg_price": 5.83,
+                                  "measure": "szt",
+                                  "date": "2021-11-25"
+                              },
+                              {
+                                  "pk": 85542,
+                                  "min_price": 7.83,
+                                  "max_price": 7.83,
+                                  "avg_price": 8.83,
+                                  "measure": "szt",
+                                  "date": "2021-11-26"
+                              },
+                              {
+                                  "pk": 85543,
+                                  "min_price": 7.83,
+                                  "max_price": 7.83,
+                                  "avg_price": 7.90,
+                                  "measure": "szt",
+                                  "date": "2021-11-27"
+                              },
+                              {
+                                  "pk": 85544,
+                                  "min_price": 7.83,
+                                  "max_price": 7.83,
+                                  "avg_price": 7.83,
+                                  "measure": "szt",
+                                  "date": "2021-11-28"
+                              },
+                              {
+                                  "pk": 85545,
+                                  "min_price": 7.83,
+                                  "max_price": 7.83,
+                                  "avg_price": 8.83,
+                                  "measure": "szt",
+                                  "date": "2021-11-29"
+                              },
+                              {
+                                  "pk": 85546,
+                                  "min_price": 7.83,
+                                  "max_price": 7.83,
+                                  "avg_price": 8.83,
+                                  "measure": "szt",
+                                  "date": "2021-11-30"
+                              },
+                              {
+                                  "pk": 85542,
+                                  "min_price": 7.83,
+                                  "max_price": 7.83,
+                                  "avg_price": 11.83,
+                                  "measure": "szt",
+                                  "date": "2021-11-30"
+                              },
+                              {
+                                  "pk": 85543,
+                                  "min_price": 7.83,
+                                  "max_price": 7.83,
+                                  "avg_price": 3.90,
+                                  "measure": "szt",
+                                  "date": "2021-12-1"
+                              },
+                              {
+                                  "pk": 85544,
+                                  "min_price": 7.83,
+                                  "max_price": 7.83,
+                                  "avg_price": 7.83,
+                                  "measure": "szt",
+                                  "date": "2021-12-2"
                               }
                           ]
                       }
