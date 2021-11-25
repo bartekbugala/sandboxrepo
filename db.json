@@ -1,0 +1,136 @@
+{
+  "products_list": [
+      {
+          "pk": 403,
+          "order": 1,
+          "name": "Ananas",
+          "icon": null,
+          "quotes": [
+              {
+                  "measure": "szt",
+                  "marketplace": [
+                      {
+                          "color": "#304fb0",
+                          "name": "Średnia",
+                          "pk": 999,
+                          "quotes": [
+                              {
+                                  "pk": 85540,
+                                  "min_price": 7.83,
+                                  "max_price": 7.83,
+                                  "avg_price": 7.83,
+                                  "measure": "szt",
+                                  "date": "2021-11-24"
+                              }
+                          ]
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "pk": 404,
+          "order": 2,
+          "name": "Arbuz",
+          "icon": null,
+          "quotes": [
+              {
+                  "measure": "kg",
+                  "marketplace": [
+                      {
+                          "color": "#304fb0",
+                          "name": "Średnia",
+                          "pk": 999,
+                          "quotes": [
+                              {
+                                  "pk": 85541,
+                                  "min_price": 5.06,
+                                  "max_price": 5.06,
+                                  "avg_price": 5.06,
+                                  "measure": "kg",
+                                  "date": "2021-11-24"
+                              }
+                          ]
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "pk": 406,
+          "order": 4,
+          "name": "Avocado",
+          "icon": null,
+          "quotes": [
+              {
+                  "measure": "szt",
+                  "marketplace": [
+                      {
+                          "color": "#304fb0",
+                          "name": "Średnia",
+                          "pk": 999,
+                          "quotes": [
+                              {
+                                  "pk": 85542,
+                                  "min_price": 5,
+                                  "max_price": 5,
+                                  "avg_price": 5,
+                                  "measure": "szt",
+                                  "date": "2021-11-24"
+                              }
+                          ]
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "pk": 407,
+          "order": 5,
+          "name": "Banan",
+          "icon": null,
+          "quotes": [
+              {
+                  "measure": "kg",
+                  "marketplace": [
+                      {
+                          "color": "#304fb0",
+                          "name": "Średnia",
+                          "pk": 999,
+                          "quotes": [
+                              {
+                                  "pk": 85543,
+                                  "min_price": 2.6,
+                                  "max_price": 2.6,
+                                  "avg_price": 2.6,
+                                  "measure": "kg",
+                                  "date": "2021-11-24"
+                              }
+                          ]
+                      }
+                  ]
+              },
+              {
+                  "measure": "18,00 kg",
+                  "marketplace": [
+                      {
+                          "color": "#304fb0",
+                          "name": "Średnia",
+                          "pk": 999,
+                          "quotes": [
+                              {
+                                  "pk": 85544,
+                                  "min_price": 25.83,
+                                  "max_price": 25.83,
+                                  "avg_price": 25.83,
+                                  "measure": "18,00 kg",
+                                  "date": "2021-11-24"
+                              }
+                          ]
+                      }
+                  ]
+              }
+          ]
+      }
+  ]
+}
