@@ -206,22 +206,6 @@
                                   "measure": "szt",
                                   "date": "2021-11-28"
                               },
-                              {
-                                  "pk": 85545,
-                                  "min_price": 7.83,
-                                  "max_price": 7.83,
-                                  "avg_price": 28.83,
-                                  "measure": "szt",
-                                  "date": "2021-11-29"
-                              },
-                              {
-                                  "pk": 85546,
-                                  "min_price": 7.83,
-                                  "max_price": 7.83,
-                                  "avg_price": 8.83,
-                                  "measure": "szt",
-                                  "date": "2021-11-30"
-                              },
                           ]
                       }
                   ]
