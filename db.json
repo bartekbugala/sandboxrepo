@@ -155,26 +155,6 @@
               "pk": 999,
               "quotes": [
                 {
-                  "pk": 85543,
-                  "min_price": 2.6,
-                  "max_price": 2.6,
-                  "avg_price": 2.6,
-                  "measure": "kg",
-                  "date": "2021-11-24"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "measure": "18,00 kg",
-          "marketplace": [
-            {
-              "color": "#304fb0",
-              "name": "Średnia",
-              "pk": 999,
-              "quotes": [
-                {
                   "pk": 85540,
                   "min_price": 7.83,
                   "max_price": 7.83,
@@ -206,6 +186,26 @@
                   "measure": "szt",
                   "date": "2021-11-28"
                 }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": "18,00 kg",
+          "marketplace": [
+            {
+              "color": "#304fb0",
+              "name": "Średnia",
+              "pk": 999,
+              "quotes": [
+                {
+                  "pk": 85540,
+                  "min_price": 7.83,
+                  "max_price": 7.83,
+                  "avg_price": 7.83,
+                  "measure": "szt",
+                  "date": "2021-11-24"
+                },
               ]
             }
           ]
