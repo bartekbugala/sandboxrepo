@@ -1,0 +1,32 @@
+{
+    "products_list": [
+        {
+            "pk": 403,
+            "order": 1,
+            "name": "Ananas",
+            "icon": null,
+            "quotes": []
+        },
+        {
+            "pk": 405,
+            "order": 3,
+            "name": "Arbuz bezpestkowy",
+            "icon": null,
+            "quotes": []
+        },
+        {
+            "pk": 407,
+            "order": 5,
+            "name": "Banan",
+            "icon": null,
+            "quotes": []
+        },
+        {
+            "pk": 432,
+            "order": 30,
+            "name": "Jabłko ligol",
+            "icon": null,
+            "quotes": []
+        }
+    ]
+}
