@@ -49,7 +49,41 @@
             "order": 3,
             "name": "Arbuz bezpestkowy",
             "icon": null,
-            "quotes": []
+            "quotes": [
+                {
+                    "measure": "kg",
+                    "marketplace": [
+                        {
+                            "name": "Średnia",
+                            "quotes": [
+                                {
+                                    "pk": 92918,
+                                    "min_price": 3.9,
+                                    "max_price": 3.9,
+                                    "avg_price": 3.9,
+                                    "measure": "kg",
+                                    "date": "2021-12-04"
+                                },
+                                {
+                                    "pk": 93807,
+                                    "min_price": 2.6,
+                                    "max_price": 2.6,
+                                    "avg_price": 2.6,
+                                    "measure": "kg",
+                                    "date": "2021-12-05"
+                                },
+                                {
+                                    "pk": 94747,
+                                    "min_price": 2.6,
+                                    "max_price": 2.6,
+                                    "avg_price": 2.6,
+                                    "measure": "kg",
+                                    "date": "2021-12-06"
+                                }
+                            ],
+                            "pk": 999,
+                            "color": "#304fb0"
+                        }]
         },
         {
             "pk": 407,
@@ -114,6 +148,14 @@
                                     "avg_price": 25.83,
                                     "measure": "18,00 kg",
                                     "date": "2021-12-06"
+                                },
+                                {
+                                    "pk": 94748,
+                                    "min_price": 25.83,
+                                    "max_price": 25.83,
+                                    "avg_price": 25.83,
+                                    "measure": "18,00 kg",
+                                    "date": "2021-12-06"
                                 }
                             ],
                             "pk": 999,
@@ -142,6 +184,14 @@
                                     "avg_price": 20.0,
                                     "measure": "15,00 kg",
                                     "date": "2021-12-05"
+                                },
+                                {
+                                    "pk": 94765,
+                                    "min_price": 20.0,
+                                    "max_price": 20.0,
+                                    "avg_price": 20.0,
+                                    "measure": "15,00 kg",
+                                    "date": "2021-12-06"
                                 },
                                 {
                                     "pk": 94765,
